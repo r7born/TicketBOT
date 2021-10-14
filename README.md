@@ -8,3 +8,4 @@
 Configure o config.json adicionando o token do seu bot e o id do seu usuário
 para criar um espaço de ticket vá até o canal que você quer criar e digite !createticket
 
+🌱 - Este bot foi desenvolvido pelo JotaP#1445
